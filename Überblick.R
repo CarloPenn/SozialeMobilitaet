@@ -4,6 +4,7 @@
 # Studenten: Lukas Gansneder, Yifan Zhao, Jakob Winkler, Carlo Penn
 
 library(dplyr)
+library(ggplot2)
 # Datensätze einlesen
 # Datensätze bereinigen
 amt = read.table("raw/amt.csv",header = F,sep = ",")
