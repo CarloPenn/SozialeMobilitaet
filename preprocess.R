@@ -29,7 +29,8 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 
 # Actors ----
-actors = read.table("raw/person.csv",header =F,sep = ",")
+
+actors = read.table("raw/person.csv",header = F,sep = ",")
 names(actors) = c("id", "name", "birth", "loc_birth","death","loc_death","sex","fast","comment","change","complier_change")
 
 actors$birth_year = as.numeric(substr(actors$birth ,start = 1, stop = 4))

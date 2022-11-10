@@ -1,0 +1,49 @@
+"1","Kaiserhof",
+"11","Kaiser",
+"111","Hofstäbe","unter formeller Führung des Obersthofmeisters die von Chefs geführten Bereiche des Hofes: Privatraum (Oberstkämmerer), Mobilität (Oberstallmeister), Hof als sozialer Sonderbereich mit Unterbringung und Höflingsrecht (Obersthofmarschall)"
+"1111","Obersthofmeister","Chef der Verwaltung des Hofstaats, zuständig auch für Hofzeremoniell, in der Regel politisch einflussreicher Berater des Kaisers"
+"11111","Stäbelmeister","Zeremonieller Leiter des für die kaiserliche Speisetafel zuständigen Personals (Mundschenken, Vorschneider, Panetiere, Truchsessen)"
+"11112","Mundschenken","tragen Trinkgefäße an die kaiserliche Tafel"
+"11113","Vorschneider","zerteilen die Fleischgerichte an der kaiserlichen Tafel"
+"11114","Panetiere","reichen Brot und Servietten an der kaiserlichen Tafel"
+"11115","Truchsessen","tragen die Speisen an die kaiserliche Tafel"
+"11116","Huschier","bahnt dem Stäbelmeister und seinem Tross den Weg von der Küche zur kaiserlichen Tafel"
+"11117","Küchenmeister","leitet die Küchen des Hofes"
+"11118","Silberkämmerer","verantwortlich für das Tafelsilber"
+"11119","Hofzahlmeister","verwaltet die Einnahmen und Ausgaben des Hofes und teilweise auch staatliche Finanzen"
+"1112","Oberstkämmerer","leitet das für den persönlichen Lebensbereich des Kaisers (Körperpflege, Kleidung, Schlafzimmer, Privatbereich, Schatulle) zuständige Personal und vergibt Termine für Privataudienzen"
+"11121","Kämmerer","leisten turnusmäßig je etwa eine Woche rund um die Uhr Dienste an der Person des Kaisers, von Hilfe beim An- und Ausziehen über Gesellschaft bis hin zur Bewachung. Seit Ferdinand II. wurde das Amt vielfach als Ehrung verliehen. Unwirkliche Kämmerer sind solche, die nicht (mehr) Dienst tun, aber die Ehrenrechte des Amtes genießen (Amtsabzeichen, Titel, privilegierter Zugang zu den kaiserlichen Vorzimmern)"
+"1114","Oberststallmeister","verantwortlich für die Mobilität des Hofes, insbesondere die Pferdehaltung, aber auch die Erziehung der Edelknaben, begleitet den Kaiser bei Fahrten in der Kutsche"
+"11141","Edelknaben","genießen eine höfische Ausbildung und leisten zeremonielle Ehrendienste"
+"1113","Obersthofmarschall","verantwortlich für die Unterbringung des Hofes und die Sondergerichtsbarkeit für Höflinge"
+"11131","Hartschierhauptmann","Hauptmann der berittenen kaiserlichen Leibgarde"
+"11132","Trabantenhauptmann","Hauptmann der marschierenden kaiserlichen Leibgarde"
+"112","Räte",
+"1121","Reichshofrat","Kaiserlicher Gerichtshof neben dem Reichskammergericht"
+"1122","Hofkriegsrat","Militärverwaltung"
+"1123","Hofkammer","Finanzverwaltung"
+"12","Kaiserin",
+"13","Verwandte im Gesamthofstaat",
+"2","Länder",
+"21","Reich",
+"22","Königreich Ungarn",
+"221","Ungarische Kammer",
+"222","Ungarische Landesämter",
+"23","Königreich Böhmen",
+"231","Böhmische Hofkanzlei",
+"232","Böhmische Landesämter",
+"24","Niederösterreich",
+"241","NÖ Regiment",
+"2411","NÖ Landesämter",
+"24111","Jägermeister",
+"25","Oberösterreich",
+"251","OÖ Regiment",
+"252","OÖ Landesämter",
+"26","Innerösterreich",
+"261","IÖ Geheimer Rat",
+"262","IÖ Hofkammer",
+"263","IÖ Landesämter",
+"27","Vorderösterreich",
+"271","VÖ Regiment",
+"272","VÖ Landesämter",
+"28","Spanien",
