@@ -29,7 +29,6 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 
 # Actors ----
-
 actors = read.table("raw/person.csv",header =F,sep = ",")
 names(actors) = c("id", "name", "birth", "loc_birth","death","loc_death","sex","fast","comment","change","complier_change")
 
